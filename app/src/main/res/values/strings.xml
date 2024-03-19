@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Flags</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="chineseCNY">CNY</string>
+    <string name="japaneseJPY">JPY</string>
+    <string name="northKPW">KPW</string>
+    <string name="southKRW">KRW</string>
+
+    <string name="chinese">China\nCNY</string>
+    <string name="japanese">Japan\nYen</string>
+    <string name="northK">NorthKorea\nWon</string>
+    <string name="southK">SouthKorea\nWon</string>
+    
+    
+    <string name="Beijing">Beijing</string>
+    <string name="Tokyo">Tokyo</string>
+    <string name="Pyongyang">Pyongyang</string>
+    <string name="Seul">Seul</string>
+
+    <string name="flag">flag</string>
+</resources>
